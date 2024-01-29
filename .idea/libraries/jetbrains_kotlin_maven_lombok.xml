@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jetbrains.kotlin.maven.lombok" type="repository">
+    <properties maven-id="org.jetbrains.kotlin:kotlin-maven-lombok:1.6.10" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-maven-lombok-1.6.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.6.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.6.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
